@@ -7,7 +7,7 @@
   "plugins": [
     {
       "name": "spec",
-      "source": ".",
+      "source": "./",
       "description": "Interview-driven specification builder with adaptive execution. Conducts deep-dive interviews using AskUserQuestion to create comprehensive SPEC.md documents with Mermaid diagrams, file references, verification commands, and codebase patterns - optimized for Claude Code agents.",
       "version": "1.0.0",
       "author": {
