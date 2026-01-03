@@ -2,6 +2,16 @@
 
 Build comprehensive specifications through deep-dive interviewing, with adaptive execution based on your intent.
 
+## Demo
+
+![Welcome](assets/01-welcome.png)
+
+![Interview](assets/02-interview-questions.png)
+
+![Deep Dive](assets/03-interview-deep-dive.png)
+
+![Insights](assets/04-insights-explanations.png)
+
 ## Installation
 
 ### From Marketplace (Recommended)
