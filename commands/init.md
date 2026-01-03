@@ -123,7 +123,7 @@ Ask these questions to help Claude Code find and follow patterns:
 1. **Start broad**: Ask about the problem and success criteria first
 2. **Gather architecture info early**: Ask about components and connections for diagram generation
 3. **Collect codebase context**: Ask about existing files, patterns, and conventions
-4. **Detect complexity**: Simple change (3-5 questions) vs complex feature (10-15 questions)
+4. **Be thorough, not mechanical**: Ask questions like a senior engineer scoping a project. Simple changes need few questions; ambiguous or large features may need 40+ across multiple rounds. Stop when you'd feel confident handing this spec to another engineer.
 5. **Adapt to type**: Bug fix? Feature? Refactor? Migration? Ask relevant questions
 6. **Probe non-obvious**: When user says "simple", ask what makes it simple
 7. **Build on answers**: Reference previous answers in follow-ups
