@@ -1,0 +1,8 @@
+{
+  "name": "spec",
+  "version": "1.0.0",
+  "description": "Interview-driven specification builder with adaptive execution",
+  "author": {
+    "name": "Ash"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "spec-tools",
+  "owner": {
+    "name": "Ashik Shafi",
+    "email": "ashikshafi0@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "spec",
+      "source": ".",
+      "description": "Interview-driven specification builder with adaptive execution. Conducts deep-dive interviews using AskUserQuestion to create comprehensive SPEC.md documents with Mermaid diagrams, file references, verification commands, and codebase patterns - optimized for Claude Code agents.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Ashik Shafi"
+      },
+      "keywords": [
+        "specification",
+        "requirements",
+        "interview",
+        "planning",
+        "documentation",
+        "spec",
+        "PRD",
+        "mermaid"
+      ],
+      "category": "development",
+      "repository": "https://github.com/ashikshafi08/claude-spec-plugin",
+      "license": "MIT"
+    }
+  ]
+}
